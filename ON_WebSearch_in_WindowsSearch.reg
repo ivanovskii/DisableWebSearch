@@ -1,0 +1,12 @@
+Windows Registry Editor Version 5.00
+
+; Created by: ivanovskii
+; Created on: November 2020
+; Link: https://github.com/ivanovskii
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Search]
+"AllowSearchToUseLocation"=-
+"BingSearchEnabled"=-
+"ConnectedSearchUseWeb"=-
+"CortanaConsent"=-
+"DisableWebSearch"=-
